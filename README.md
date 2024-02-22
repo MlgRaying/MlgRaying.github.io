@@ -4,6 +4,8 @@ WhiteSpider (aka WhiteSpider Unblocked Games or WSUG) is a FOSS (free open-sourc
 
 WhiteSpider is, and will always be, free and open-source. You can however show us your care by <b>clicking on the star button</b> at the top right corner. It would have a significant effect on this project's future development. <br />
 
+forked by original zex
+
 <a href="https://whitespider.dev/" target="_blank" rel="noopener">Main Link</a> | <a href="https://sites.google.com/view/wsug-mirrors/" target="_blank" rel="noopener">Mirror Links</a> | <a href="https://discord.gg/MWCNr2ANEz" target="_blank" rel="noopener">Discord</a> | <a href="https://github.com/whitespider-dev/whitespider-backend/tree/%81%d3Q%f0%8b%7B%bd%d1" target="_blank" rel="noopener">Backend Repo</a><br />
 
 ## Features
